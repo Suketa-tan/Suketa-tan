@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<ul>
+  <li>Computer engineering college student</li>
+  </ul>
+
 learning...
 
 
