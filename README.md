@@ -8,8 +8,8 @@
 
 ### learning...
 
-!<img src="https://img.icons8.com/color/452/c-programming.png" alt="C" width="30"/>
-!<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C" width="20"/>
+![C]<img src="https://img.icons8.com/color/452/c-programming.png" alt="C" width="30"/>
+![Cpp]<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C" width="20"/>
 
 
 
