@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <ul>
-  <li>Computer engineering college student</li>
+  <li>College student</li>
+  <li>Weeaboo</li>
+  <li>I hate pointers</li>
   </ul>
 
 learning...
