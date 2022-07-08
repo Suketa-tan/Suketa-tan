@@ -7,7 +7,7 @@
   </ul>
 
 ### learning...
-<img src="https://img.icons8.com/color/452/c-programming.png" alt="drawing" width="50"/>
+<img src="https://img.icons8.com/color/452/c-programming.png" alt="C" width="30"/>
 
 
 
