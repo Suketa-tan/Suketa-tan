@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi
 
 <ul>
   <li>College student</li>
   <li>Weeaboo</li>
-  <li>I hate pointers</li>
   </ul>
 
 ### learning...
